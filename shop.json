@@ -1,92 +1,85 @@
 [
   {
     "id": "1",
-    "title": "Wally",
+    "title": "Воздух",
     "vendor_code": "111",
-    "description": "",
-    "price": 150,
-    "img": "valli.jpg"
+    "description": "Воздух,который подарит жизнь",
+    "price": 1500000000000000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtihQMA7YDE0UPQjM32bx68a80Fb4WDvuO--VonySDhTr9_32TKo9b-c-Ps5yCUJMMd38&usqp=CAU"
   },
   {
     "id": "2",
     "title": "CAT",
     "vendor_code": "222",
-    "description": "Описание 2",
-    "price": 2,
+    "description": "Самое милое животное в мире",
+    "price": 200000000,
     "img": "cat.jpg"
   },
   {
     "id": "3",
-    "title": "mult_Avatar",
+    "title": "Титаник",
     "vendor_code": "333",
-    "description": "Описание 3",
-    "price": 300,
-    "img": "avatar2.jpg"
+    "description": "f",
+    "price": 0.000001,
+    "img": "https://www.mozaweb.com/ru/mozaik3D/TCH/kozlekedes/titanic/960.jpg"
   },
   {
     "id": "4",
     "title": "Яхта",
     "vendor_code": "444e",
-    "description": "Описание 4",
-    "price": 1200,
+    "description": "Не титаник,но тоже хорошо",
+    "price": 1,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
   }
   ,
   {
     "id": "5",
-    "title": "Zooro",
+    "title": "Зубачистка Газманова",
     "vendor_code": "4445e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "zooro.jpg"
+    "description": "Ходят слухи,что...",
+    "price": 76454556465,
+    "img": "https://storage.yandexcloud.net/mostro-gm-media/5ced4aee-4c48-0ed4-43fe-d9d02667c4ba/54PERAD-2.jpg"
   },
   {
     "id": "6",
-    "title": "Wait",
+    "title": "Dыo.png",
     "vendor_code": "4446e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    "description": "",
+    "price": 4444,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlwe70UcgbGb4m88tEnPBAiAbENNCBDR6GsQ&usqp=CAU"
   },
   {
     "id": "7",
     "title": "Bob",
     "vendor_code": "4447e",
-    "description": "Описание 7",
-    "price": 700,
+    "description": "Просто боб",
+    "price": 0.0,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
   },
   {
     "id": "8",
-    "title": "Avatar",
+    "title": "Шайлушай",
     "vendor_code": "4448e",
-    "description": "Описание 8",
-    "price": 800,
+    "description": "We live, we love, we lie",
+    "price": 100000000,
     "img": "avatar.jpg"
   },
   {
     "id": "9",
-    "title": "Товар 9",
+    "title": "Русь Матушка",
     "vendor_code": "444e",
-    "description": "Описание 9",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    "description": "Просто Русь Матушка",
+    "price": 8,
+    "img": "https://img.gazeta.ru/files3/901/10129901/AGf8qeN7itA-pic905-895x505-42072.jpg"
   }
   ,
   {
     "id": "10",
-    "title": "Avatar",
+    "title": "Какая-то штука",
     "vendor_code": "44410e",
-    "description": "Описание 10",
-    "price": 900,
+    "description": "Что-то",
+    "price": 90000,
     "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_5.png"
-  },
-  {
-    "id": "11",
-    "title": "Товар 11",
-    "vendor_code": "44411e",
-    "description": "Описание 1",
-    "price": 1100,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_6.png"
   }
+
 ]
